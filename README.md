@@ -1,6 +1,6 @@
 # NumbersRange
 
-This program prompts the user to select from the following menu: 
+Python code creates a menu where the user can select to find all the prime, perfect, abundant, even, and odd numbers in agiven range:
 
 Main Menu
 
